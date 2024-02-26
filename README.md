@@ -1,0 +1,1 @@
+# Actividad-2-Analisis-de-Robot-lineal-de-3GDL
